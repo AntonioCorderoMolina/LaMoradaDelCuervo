@@ -39,24 +39,24 @@ Sobre ella he colocado un botón "Call to Action" estilados de forma sencilla</p
 <p>Por otro lado, todo el cuerpo de la web cuenta con una imagen de fondo a modo de patrón</p>
 
 <h3>Conoce al autor</h3>
-<img src="./readme-miataxpress/section1.png" alt="imagen de la primera section - conoce al autor" style="width:50%">
+<img src="./readme-miataxpress/ConoceAlAutor.png" alt="imagen de la primera section - conoce al autor" style="width:50%">
 <p>Texto corto a modo de presentación inicial donde se explica el mótivo de la web. Título inicial central, texto centrado a la izquierda y una imagen recortada circularmente a la derecha, ambos dejando márgenes al wrapper.</p>
 <p>La imagen utilizado se ha usado con el consentimiento del autor.</p>
 
 <h3>Reseñas</h3>
-<img src="./readme-miataxpress/section2.png" alt="imagen de la sección de reseñas" style="width:50%">
+<img src="./readme-miataxpress/Resenas.png" alt="imagen de la sección de reseñas" style="width:50%">
 <p>Se muestran varias de la últimas reseñas en formato de cards, cada una con un botón que enlaza a cada de las reseñas en el instragram oficial de la cuenta.</p>
 
 <h3>Galería</h3>
-<img src="./readme-miataxpress/section3y4.png" alt="imagen de la sección de galería" style="width:50%">
+<img src="./readme-miataxpress/videos.png" alt="imagen de la sección de galería" style="width:50%">
 <p>Galería de vídeos en formato de grid 3x3, sobre una sección llamada "Una 'mijitilla' sobre ..." donde son vídeos en un formato rápido de vídeos cortos de menos de un minuto</p>
 
 <h3>¿Dónde comprar?</h3>
-<img src="./readme-miataxpress/section5.png" alt="imagen de la sección de compras" style="width:50%">
+<img src="./readme-miataxpress/DondeComprar.png" alt="imagen de la sección de compras" style="width:50%">
 <p>Elemento accordion donde dentro de cada uno se muestra información sobre varias tiendas físicas especializadas en la venta de cómics, mangas y demás merechandising del género. Además se enlaza cada web oficial en un botón simpple y junto a todo esto un mapa embebido de Google Maps donde se muestra la dirección.</p>
 
 <h3>Subscríbete</h3>
-<img src="./readme-miataxpress/section3y4.png" alt="imagen de la sección de subscripción" style="width:50%">
+<img src="./readme-miataxpress/subscribe.png" alt="imagen de la sección de subscripción" style="width:50%">
 <p>Formato de Introducción de datos, email y chequeo de opciones con la intención de que quien quiera se pueda subscribir para recibir noticias de la web.</p>
 <p>Cuenta con un modal a modo de ventana emergernte para los términos y condiciones de privacidad y uso de la infomación proporcionada del usuario que se registre.</p>
 
