@@ -1,5 +1,5 @@
 <h1>Memoria del proyecto 2ª de evaluación de Lenguajes de Marcas - 1º DAW</h1>
-<h2>MiataXpress Web</h2>
+<h2>Web - La Morada del Cuervo</h2>
 <p>Enlaces directo a web navegable:</p>
 - <a href="https://antoniocorderomolina.github.io/LaMoradaDelCuervo/landingpage.html">Web navegable del proyecto</a>
 <h2>Índice</h2>
